@@ -1,4 +1,4 @@
-# TeamsPlayers
+
 # Teams and Players SwiftUI App
 
 This SwiftUI app displays a list of teams and their players. The data is organized using an object-oriented programming (OOP) model with a `Player` struct, a `Team` class, and an `enum` to categorize team types (e.g., National, Club, Academy). The app also uses `ObservableObject` to manage the state and update the UI dynamically when the data changes.
